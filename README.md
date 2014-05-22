@@ -1,7 +1,7 @@
 GCP-PRISS
 =========
 
-An attempt to print through PRISS at UiO with Google Cloud Print
+An attempt to print through PRISS at UiO with [Google Cloud Print](http://developer.google.com/cloud-print)
 
 **Note: This project will not be started until the middle of June**
 
